@@ -1,0 +1,16 @@
+* {
+    color: darkmagenta;
+}
+/* this is for h2 id */
+#h2 {
+    color: darkblue;
+}
+.para {
+    color: darkgreen;
+}
+/* this is for all the tables */
+table {
+    border: 1px solid black;
+    width: 50%;
+    margin: 20px auto;
+}
